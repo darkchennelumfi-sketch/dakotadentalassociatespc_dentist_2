@@ -1,0 +1,56 @@
+export type GlossaryTerm = {
+  term: string;
+  definition: string;
+};
+
+export const glossary: GlossaryTerm[] = [
+  { term: "Abscess", definition: "Infection caused by severe tooth decay, trauma or gum disease." },
+  { term: "Amalgam", definition: "A silver and mercury material used for fillings." },
+  { term: "Anesthetic", definition: "A drug used by your doctor to eliminate a patient's localized pain during certain dental procedures." },
+  { term: "Anterior", definition: "The teeth in the front of your mouth." },
+  { term: "Apex", definition: "The very tip of the root of a tooth." },
+  { term: "Aspirator", definition: "A suction device your dentist uses to remove saliva from your mouth." },
+  { term: "Bonding", definition: "A plastic composite painted on the teeth to correct stains or damage." },
+  { term: "Bridge", definition: "One or more artificial teeth attached to your adjacent teeth." },
+  { term: "Bruxism", definition: "The clenching or grinding of teeth, most commonly while sleeping." },
+  { term: "Calculus", definition: "The hardened plaque that can form on neglected or prone teeth, commonly known as tartar." },
+  { term: "Canine", definition: "The pointy teeth just behind the laterals." },
+  { term: "Caries", definition: "Another name for cavities or decayed teeth." },
+  { term: "Cavity", definition: "A tiny hole in the tooth caused by decay." },
+  { term: "Central", definition: "The two upper and two lower teeth in the center of the mouth." },
+  { term: "Crown", definition: "An artificial tooth or cover made of porcelain or metal." },
+  { term: "Cuspid", definition: "The pointy teeth just behind the laterals, also known as canines." },
+  { term: "Decalcification", definition: "The loss of calcium from the teeth." },
+  { term: "Dental Implants", definition: "An implant is attached to the jawbone that replaces a missing tooth or teeth." },
+  { term: "Dentures", definition: "A removable set of artificial teeth." },
+  { term: "Enamel", definition: "The hard surface of the tooth above the gum line." },
+  { term: "Endodontist", definition: "A dentist who specializes in root canals and the treatment of diseases and infections of the dental pulp (inner tooth)." },
+  { term: "Extraction", definition: "The removal of a tooth or teeth." },
+  { term: "Filling", definition: "A plug made of metal or composite material used to fill a tooth cavity." },
+  { term: "Fluoride", definition: "A chemical solution used to harden teeth and prevent decay." },
+  { term: "Gingivitis", definition: "Inflammation of gums around the roots of the teeth." },
+  { term: "Gums", definition: "The firm flesh that surrounds the roots of the teeth." },
+  { term: "Impacted Tooth", definition: "Often occurring with wisdom teeth, it is a tooth that sits sideways below the gum line, often requiring extraction." },
+  { term: "Incisor", definition: "One of the flat, sharp-edged teeth in the front of the mouth." },
+  { term: "Inlays", definition: "A custom-made filling cemented into an unhealthy tooth." },
+  { term: "Lateral", definition: "These are the teeth adjacent to the centrals." },
+  { term: "Night Guard", definition: "A plastic mouthpiece worn at night to prevent grinding of the teeth; also used to treat TMJ." },
+  { term: "Pedodontist", definition: "Also known as a pediatric dentist, a dentist that specializes in the treatment of children's teeth." },
+  { term: "Periodontist", definition: "A dentist specializing in the treatment of gum disease." },
+  { term: "Plaque", definition: "A sticky buildup of acids and bacteria that causes tooth decay." },
+  { term: "Posterior Teeth", definition: "The teeth in the back of the mouth." },
+  { term: "Primary Teeth", definition: "Also known as \"baby teeth\"." },
+  { term: "Prosthodontist", definition: "A dentist specializing in the restoration and replacement of missing teeth or severely damaged teeth." },
+  { term: "Root", definition: "The portion of the tooth below your gum line." },
+  { term: "Root Canal", definition: "Cleaning out and filling the inside nerve of a tooth that is heavily decayed." },
+  { term: "Sealant", definition: "Plastic coating applied to teeth to prevent decay. Used most commonly for children." },
+  { term: "Secondary Teeth", definition: "The permanent teeth." },
+  { term: "Sleep Apnea", definition: "A potentially serious disorder in which a sleeping person may stop breathing for 10 seconds or more, often continuously throughout the night." },
+  { term: "TMJ Syndrome", definition: "A disorder associated with the joint of the jaw, often caused by a misalignment of or a disparity in upper and lower jaw sizes." },
+  { term: "Tooth Whitening", definition: "A process designed to whiten and brighten teeth." },
+  { term: "Veneer", definition: "A plastic, porcelain or composite material used to improve the attractiveness of a stained or damaged tooth." },
+];
+
+export const glossaryLetters = Array.from(
+  new Set(glossary.map((item) => item.term.charAt(0).toUpperCase())),
+).sort();

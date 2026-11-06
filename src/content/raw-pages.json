@@ -1,0 +1,1408 @@
+{
+  "/office/financial-insurance": {
+    "title": "Financial & Insurance",
+    "description": "Our Practice Conveniently Offers A Variety Of Financing Options And Accepts Most Forms Of Insurance To Meet Your Needs. Schedule Your Appointment Today!",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "It is our mission at Dakota Dental Associates to provide you with high quality yet affordable dental care. Dental treatment is a great investment to your overall health, and it is important to schedule any care you may need. Financial considerations should not be an obstacle to obtaining the care you deserve. For this reason, we offer several financial options."
+      },
+      {
+        "type": "p",
+        "text": "For your convenience our office accepts payment by cash, check, Visa, MasterCard, American Express and Discover credit cards."
+      },
+      {
+        "type": "p",
+        "text": "As a service to our patients, we are pleased to offer CareCredit , the nation's leading patient payment program. With CareCredit it may be possible to finance 100 percent of your dental care. There are no upfront costs, no annual fees and no prepayment penalties. CareCredit offers a comprehensive range of plans with a low minimum monthly payment that fits every budget. With CareCredit you can begin treatment right away and pay over time. Simply fill out the online application or call (800) 365-8295 and receive an answer immediately."
+      },
+      {
+        "type": "p",
+        "text": "We request payment on the day of service. However, if you have dental insurance, we will estimate your insurance coverage and collect only the estimated portion at that time."
+      },
+      {
+        "type": "p",
+        "text": "With the financial options available at Dakota Dental Associates, there never has been a better time to get started with your care. If you have any questions regarding payment, please ask one of our administrative assistants. They will explain your choices so you can select the payment option that best fits your needs."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Dental Insurance"
+      },
+      {
+        "type": "p",
+        "text": "Our office is committed to helping you maximize your dental insurance benefits. As a courtesy to our patients, we will assist with submitting claims if permitted by the provider. A wide variety of dental insurance plans exist and policies may vary greatly, so we do expect you to review your coverage and verify your dental benefits before your appointment. Please note that we can only estimate your dental benefits and cannot guarantee coverage."
+      },
+      {
+        "type": "p",
+        "text": "We are in network with the following dental Insurance plans: Delta Dental Premier (not PPO) and United Concordia."
+      },
+      {
+        "type": "p",
+        "text": "Please remember that insurance is a benefit to you or your family. If changes occur during the course of treatment, the responsible party is accountable for all charges. If you have any questions, our courteous staff members will be happy to assist you."
+      }
+    ]
+  },
+  "/office/office-policies-mission": {
+    "title": "Office Policies & Mission",
+    "description": "Our Office Policies Are In Place To Ensure A Smooth Visit For Our Patients Every Time. Please Review Our Policies & Schedule An Appointment Today!",
+    "blocks": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Office Hours"
+      },
+      {
+        "type": "p",
+        "text": "We are open to serve you, answer questions or schedule an appointment during the following hours:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Monday through Wednesday: 7:10 a.m. to 5:00 p.m.",
+          "Thursday: 7:10 to 12 p.m. and 1 to 5 p.m. (We are closed for one hour for continuing education and staff development.)",
+          "Friday: 8 a.m. to noon."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Emergencies After-Hours"
+      },
+      {
+        "type": "p",
+        "text": "We offer an emergency on-call system for our patients which operates Monday-Thursday from 5:00 pm-9:00 pm, Friday from 12:00-9:00 pm and Saturday and Sunday from 8:00 am-9:00 pm."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Our Mission"
+      },
+      {
+        "type": "p",
+        "text": "Simply put, our mission is to:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Provide our patients with the highest quality care in a safe, efficient and comfortable environment",
+          "Use technology to maximize efficiency, thereby maintaining affordability",
+          "Incorporate systems that are environmentally friendly, such as an advanced water filtration system, digital low-dose X-rays and geothermal heat",
+          "Implement the highest level of patient confidentiality and personal information security"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Our staff members are eager to seek out continuing education. We discuss new topics and treatment techniques in our very own Learning Center on a weekly basis."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Appointments"
+      },
+      {
+        "type": "p",
+        "text": "Your scheduled appointment time has been reserved specifically for you. As a courtesy to our patients and our staff, we require at least a 24-hour notice in the event you need to change your scheduled appointment. Each time a patient misses an appointment without providing proper notice, another patient is prevented from receiving care. A $80 fee will be applied to all missed appointments or appointments changed without a 24-hour notice. This fee is not billable to insurance and is to be paid prior to your next appointment. Thank you for your understanding."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Insurance"
+      },
+      {
+        "type": "p",
+        "text": "Our office is committed to helping you maximize your dental insurance benefits. Because insurance policies vary, we can only estimate your coverage and cannot guarantee any coverage. Your estimated patient portion must be paid at the time of service. As a courtesy to our patients, we will file your dental claims for you. If you have any questions, our staff is available to help answer them."
+      },
+      {
+        "type": "p",
+        "text": "No insurance? No problem. Ask about our special program for the uninsured."
+      }
+    ]
+  },
+  "/patients/your-first-visit": {
+    "title": "Your First Visit",
+    "description": "You Can Feel Confident That Our Office Will Provide You With Unparalleled Family Dental Care. Find Out What To Expect At Your First Visit & Call Us Today!",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "We want your visit to Dakota Dental Associates to be a comfortable, pleasant and easy experience for you. When setting up your first appointment, this is what you can expect…"
+      },
+      {
+        "type": "list",
+        "items": [
+          "We will ask you about any dental insurance you would like us to keep on file. Before your appointment, we will need the insured person's name, address, phone number and Social Security number, along with their insurance member ID. We also will need the name of the employer who provides the insurance. Be assured that we keep all information secure and use it only on your behalf to file claims and ask questions that help you make decisions about treatment.",
+          "Bring a copy of your insurance card to your first visit or before that day. This way, we can get all necessary information on file in order to expedite your claims and reduce any paperwork and costs for you.",
+          "No insurance? No problem. Ask about our special program for the uninsured.",
+          "Arrive at least 15 minutes early so you will have time to stop at our convenient medical history kiosk. Here, you will be able to share important medical information that is crucial to your care. Bring along a list of all current medications — both prescribed and over-the-counter — you are taking.",
+          "Do you have any current X-rays from another office? Before your visit to Dakota Dental, call your previous office to request all current X-rays be sent so that they arrive here at least 24 hours before your appointment time. (Hint: Current X-rays are bitewings taken within a year or pano/full-mouth images taken within three to five years.) If we do not have current X-rays before your appointment, we will need to take new ones, which may incur unnecessary out-of-pocket expenses for you.",
+          "Payment: If you provide all the proper insurance information in advance, we will ask you to pay only your estimated portion due on the day of treatment. (Note: You may continue to receive statements while we wait for your insurance company to process your claims.)",
+          "We do expect a parent or guardian to arrive with any patient 18 years old or younger. This ensures that you are able to sign off on any recommended treatment, such as making decisions on fluoride or choosing if you want silver- or tooth-colored fillings. You also may need to update medical history and your personal profile.",
+          "We will ask for an e-mail address in case you would like us to e-mail you about upcoming appointments. You also can opt out of this service.",
+          "Remember to allow 80 minutes for your very first hygiene visit at Dakota Dental. Thereafter, adult appointments generally take about 50 minutes. Appointments for children 11 or younger are generally 30 minutes long."
+        ]
+      }
+    ]
+  },
+  "/patients/sterilization-water-filtration": {
+    "title": "Sterilization / Water Filtration",
+    "description": "Sterilization / Water Filtration",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Here at Dakota Dental Associates, your health and safety is our top priority, and we take every possible precaution to ensure your visits with us are as safe as they are comfortable."
+      },
+      {
+        "type": "p",
+        "text": "With our focus on your health, and our commitment to environmentally friendly dental solutions, we have opted to use the DentaPure water sterilization and filtration system for our office. The DentaPure system utilizes technology designed for NASA to cleanse and purify water of any harmful bacteria, viruses or other organisms."
+      },
+      {
+        "type": "p",
+        "text": "DentaPure cartridges contain iodinated resin which release atomic isotopes when running water passes through it, sterilizing and cleaning the water nearly instantaneously. DentaPure is efficient, environmentally friendly, cleared by the FDA and EPA, and complies with or exceeds all safety standards set forth by the OSAP, CDC and ADA."
+      }
+    ]
+  },
+  "/patients/patient-advantage": {
+    "title": "Patient Advantage",
+    "description": "Patient Advantage",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "It's our pleasure to work with you as your dental health team. Your smile and satisfaction are very important to us. Here are some of the ways Dakota Dental wants to reward your patronage:"
+      },
+      {
+        "type": "p",
+        "text": "As a regular patient of record, defined as a patient who is current on their hygiene recall and treatment recommendations, we will:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Send you e-mail alerts so you're the first to know about specials and promotions.",
+          "Give you access to our after-hours emergency service.",
+          "Allow you to take advantage of our periodic bleaching specials.",
+          "Offer you a free toothbrush at each hygiene visit.",
+          "Include you in our annual mouthguard special."
+        ]
+      }
+    ]
+  },
+  "/patients/common-problems": {
+    "title": "Common Problems",
+    "description": "There Are A Number Of Common Dental Problems That Can Get In The Way Of Having A Beautiful Smile. Check Out The Problems We Can Fix & Make An Appointment!",
+    "blocks": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Tooth Decay"
+      },
+      {
+        "type": "p",
+        "text": "Tooth decay, also known as caries or cavities, is preventable. Carbohydrate-rich foods, such as candy, cookies, soft drinks and even fruit juices, leave deposits on your teeth. Those deposits bond with the bacteria that normally survive in your mouth and form plaque. The combination of deposits and plaque forms acids that can damage the mineral structure of teeth and eat away at tooth enamel, resulting in tooth decay."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Sensitive Teeth"
+      },
+      {
+        "type": "p",
+        "text": "Your teeth expand and contract in reaction to changes in temperature. Hot and cold foods and beverages can cause pain or irritation to people with sensitive teeth. Over time, tooth enamel can be worn down, gums may recede or teeth may develop microscopic cracks, exposing the interior of the tooth and irritating nerve endings. Simply breathing cold air can be painful for those with extremely sensitive teeth."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Gum Disease"
+      },
+      {
+        "type": "p",
+        "text": "Gum, or periodontal, disease can cause inflammation, tooth loss and bone damage, and common indicators are consistent bad breath or a bad taste in the mouth. Gums in the early stage of disease, known as gingivitis, can bleed easily and become red and swollen. As the disease progresses to periodontitis, teeth may fall out or need to be removed by a dentist. Gum disease is highly preventable and can usually be avoided through daily brushing and flossing."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Bad Breath (Halitosis)"
+      },
+      {
+        "type": "p",
+        "text": "Daily brushing and flossing helps to prevent the build-up of food particles, plaque and bacteria in your mouth. Food particles left in the mouth deteriorate and cause bad breath. While certain foods, such as garlic or anchovies, may create temporary bad breath, consistent bad breath may be a sign of gum disease or another dental problem."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Canker Sores"
+      },
+      {
+        "type": "p",
+        "text": "Canker sores (aphthous ulcers) are small sores inside the mouth that often recur. They have a white or gray base surrounded by a red border. Generally lasting one or two weeks, the duration of canker sores can be reduced by the use of antimicrobial mouthwashes or topical agents."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Orthodontic Problems"
+      },
+      {
+        "type": "p",
+        "text": "A bite that does not meet properly (a malocclusion) can be inherited, or some types of improper bites may be acquired. Common causes of malocclusion include missing or extra teeth, crowded teeth, misaligned jaws, injuries/trauma or developmental issues, such as finger or thumb sucking."
+      }
+    ]
+  },
+  "/patients/oral-hygiene": {
+    "title": "Oral Hygiene",
+    "description": "Brushing & Flossing Twice Daily Is The Best Way To Ensure A Clean & Healthy Smile. Learn More About Proper Brushing & Flossing Techniques & Call Us Today!",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The cornerstone to a good oral hygiene regimen is proper brushing and flossing habits. For more on brushing and flossing, see our Brushing & Flossing page ."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Tooth Decay Prevention"
+      },
+      {
+        "type": "p",
+        "text": "Tooth decay is a progressive disease resulting in the interaction of bacteria that naturally occur on the teeth and sugars in the everyday diet. Sugar causes a reaction in the bacteria, causing it to produce acids that break down the mineral in teeth, forming a cavity. Dentists remove the decay and fill the tooth using a variety of fillings, restoring the tooth to a healthy state. Nerve damage can result from severe decay and may require a crown (a crown is like a large filling that can cap a tooth, making it stronger or covering it). Avoiding unnecessary decay simply requires strict adherence to a dental hygiene regimen: brushing and flossing twice a day, regular dental checkups, diet control and fluoride treatment. Practicing good hygiene avoids unhealthy teeth and costly treatment."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Sealants"
+      },
+      {
+        "type": "p",
+        "text": "The grooves and depressions that form the chewing surfaces of the back teeth are extremely difficult (if not impossible) to clean of bacteria and food. As the bacteria reacts with the food, acids form and break down the tooth enamel, causing cavities. Recent studies indicate that 88 percent of total cavities in American schoolchildren are caused this way."
+      },
+      {
+        "type": "p",
+        "text": "Tooth sealants protect these susceptible areas by sealing the grooves and depressions, preventing bacteria and food particles from residing in these areas. Sealant material is a resin typically applied to the back teeth, molars and premolars and areas prone to cavities. It lasts for several years but needs to be checked during regular appointments."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Fluoride"
+      },
+      {
+        "type": "p",
+        "text": "Fluoride is a substance that helps teeth become stronger and resistant to decay. Regularly drinking water treated with fluoride, along with brushing and flossing regularly, ensures significantly fewer cavities."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "X-rays"
+      },
+      {
+        "type": "p",
+        "text": "In order to provide our patients with the highest quality of dental services, we use dental radiographs, or X-rays, in our office. These radiographs provide us with invaluable information about your oral and dental health."
+      },
+      {
+        "type": "p",
+        "text": "While radiographic equipment does produce radiation (and depends on that radiation to function properly), modern advances in technology continually are reducing the amount of radiation that is produced. In fact, studies have shown that the amount of radiation produced by these machines is not significantly higher than other \"normal\" sources of radiation that we are exposed to on perhaps a daily basis, such as televisions and airplanes."
+      },
+      {
+        "type": "p",
+        "text": "X-rays work on a simple principle: The X-rays are stimulated and sent through the mouth. When these rays pass through, they are absorbed more by the bones in your mouth than the gums and other soft tissues, creating a picture of how the teeth inside your mouth are positioned, as well as any potential areas of weakness or decay in your teeth."
+      },
+      {
+        "type": "p",
+        "text": "While this radiation is very low, it still is recommended that pregnant women avoid any unnecessary X-rays. However, pregnant women are also more vulnerable to gum disease, so X-rays may be recommended, in which case, proper precautions should be taken, such as using a lead apron and thyroid collar."
+      }
+    ]
+  },
+  "/patients/early-dental-care": {
+    "title": "Early Dental Care",
+    "description": "Early Dental Care",
+    "blocks": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Teething"
+      },
+      {
+        "type": "p",
+        "text": "Normally, the first tooth erupts between ages 6 to 12 months. Gums are sore, tender and sometimes irritable until the age of 3. Rubbing sore gums gently with a clean finger, the back of a cold spoon or a cold, wet cloth helps soothe the gums. Teething rings work well, but avoid teething biscuits — they may contain sugar that is not good for baby teeth."
+      },
+      {
+        "type": "p",
+        "text": "While your baby is teething, it is important to monitor the teeth for signs of baby bottle decay. Examine the teeth, especially on the inside or the tongue side, for dull spots (whiter than the tooth surface) or lines. A bottle containing anything other than water and left in an infant's mouth while sleeping can cause decay. This happens because sugar in the liquid mixes with bacteria in dental plaque, forming acids that can lead to decay. Each time a child drinks liquids containing sugar, acids can attack the teeth. When awake, saliva helps carry away the liquid. During sleep, the saliva flow significantly decreases and liquids pool around the child's teeth for long periods, covering the teeth in acids."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Infant Tooth Eruption"
+      },
+      {
+        "type": "p",
+        "text": "A child's teeth actually start forming before birth. As early as 4 months of age, the primary or \"baby\" teeth push through the gums — the lower central incisors are first, then the upper central incisors. The remainder of the 20 primary teeth typically erupt by age 3, but the place and order varies."
+      },
+      {
+        "type": "p",
+        "text": "Permanent teeth begin eruption around age 6, starting with the first molars and lower central incisors. This process continues until about age 21. Adults have 28 secondary (permanent) teeth — 32 including the third molars (wisdom teeth)."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Infant's New Teeth"
+      },
+      {
+        "type": "p",
+        "text": "The primary, or \"baby\" teeth play a crucial role in dental development. Without them, a child cannot chew food properly and may have difficulty speaking clearly. Primary teeth are vital to development of the jaws and for guiding the permanent (secondary) teeth into place when they replace the primary teeth around age 6."
+      },
+      {
+        "type": "p",
+        "text": "Since primary teeth guide the permanent teeth into place, infants with missing primary teeth or infants who prematurely lose primary teeth may require a space maintainer, a device used to hold the natural space open. Without a maintainer, the teeth can tilt toward the empty space and cause permanent teeth to come in crooked. Missing teeth should be mentioned to your family dentist. The way your child cares for her primary teeth plays a critical role in how she treats the permanent teeth. Children and adults are equally susceptible to plaque and gum problems — hence, the need for regular care and dental checkups."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A Child's First Dental Visit"
+      },
+      {
+        "type": "p",
+        "text": "A child's first dental visit should be scheduled around his third birthday unless parents have specific concerns earlier. Most insurance companies do not cover children until age 3. Parents should check to make sure their child has been added to their policy so they do not incur unnecessary out-of-pocket expenses."
+      },
+      {
+        "type": "p",
+        "text": "We customize your child's first appointment according to her comfort level. We believe in a positive first dental experience. Every child is different and, if we accomplish only a \"chair ride\" the first time, that's OK. A pleasant, comfortable first visit builds trust and helps put the child at ease during future dental visits."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Good Diet and Healthy Teeth"
+      },
+      {
+        "type": "p",
+        "text": "The teeth, bones and soft tissue of the mouth require a healthy, well-balanced diet. A variety of foods from the five food groups helps minimize (and avoid) cavities and other dental problems. Many snacks that children eat cause cavities, so children should receive only healthy snacks such as vegetables, low-fat yogurt and cheeses, which promote strong teeth."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Preventing Baby Bottle Tooth Decay"
+      },
+      {
+        "type": "p",
+        "text": "Tooth decay in infants can be minimized or prevented by not allowing infants to go to bed with bottles containing milk or sugared drinks. Our office is dedicated to fighting baby bottle tooth decay. Let us know if you notice any signs of decay or anything unusual in your child's mouth."
+      }
+    ]
+  },
+  "/patients/about-teeth": {
+    "title": "About Teeth",
+    "description": "About Teeth",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Throughout your life, you will have two sets of teeth: primary (baby) teeth and secondary (permanent) teeth. At age 6 to 8 months, the primary teeth appear; all 20 are in place by age 3."
+      },
+      {
+        "type": "p",
+        "text": "Permanent teeth will begin to grow about age 6, and except for wisdom teeth, are all present between ages 12 and 14. The next teeth to erupt are the 12-year molars and, finally, the wisdom teeth. Wisdom teeth typically begin breaking through from age 17 and on. The total number of permanent teeth is 32, though few people have room for all 32 teeth. This is why wisdom teeth usually are removed."
+      },
+      {
+        "type": "p",
+        "text": "Your front teeth are called incisors. The sharp \"fang-like\" teeth are canines. The next side teeth are referred to as pre-molars or bicuspids, and the back teeth are molars. Your permanent teeth are the ones you keep for life, so it is vital that they are brushed and flossed regularly and that periodic checkups by a dentist are followed."
+      }
+    ]
+  },
+  "/patients/dental-health": {
+    "title": "Dental Health",
+    "description": "There Are Many Ways To Prevent Tooth Decay From Becoming A Major Dental Issue. Learn More About Our Prevention Methods & Make An Appointment Today!",
+    "blocks": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Adults"
+      },
+      {
+        "type": "p",
+        "text": "Practicing good oral hygiene is the key to maintaining good overall health, especially as we get older. In recent years, bacterial inflammation involved in gum disease has been linked to chronic health problems such as stroke, coronary artery disease and premature, low birth-weight babies. Our doctors and hygienists take great care to identify and treat gum disease early to keep you and your mouth healthy."
+      },
+      {
+        "type": "p",
+        "text": "There are a number of things you can do to help protect your smile and your overall health. Visiting your dentist regularly, at least twice a year, allows us to thoroughly clean your teeth and recognize any potential problems early (i.e. cavities, gingivitis, etc.) before they become more serious. Dental exams give us insight on whether the patient is getting proper nutrition, maintaining a proper oral hygiene regimen and whether there are any growth or development problems."
+      },
+      {
+        "type": "p",
+        "text": "Here are some helpful tips to ensure you are practicing good oral hygiene at home:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Brush at least three times a day using a fluoridated toothpaste",
+          "Floss daily",
+          "Eat a well-balanced, healthy diet",
+          "Avoid smoking and the use of smokeless tobacco products"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "By following the above steps, you can help prevent such common problems as cavities, gingivitis, gum disease, oral cancer, as well as more serious diseases that affect your overall health such as heart disease and diabetes."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Children"
+      },
+      {
+        "type": "p",
+        "text": "Innumerable studies and research have concluded on the importance of starting children early in their lives with good dental hygiene and oral care. According to research, the most common chronic childhood disease in America is tooth decay, affecting 50 percent of first-graders and 80 percent of 17-year-olds. Early treatment prevents problems affecting a child's health, well-being, self-image and overall achievement."
+      },
+      {
+        "type": "p",
+        "text": "The National Institute of Dental & Craniofacial Research estimates that children will miss 52 million hours of school each year due to oral health problems and experience about 12.5 million days of restricted activity every year from dental symptoms. Because there is such a significant loss in their academic performance, the Surgeon General has made children's oral health a priority."
+      },
+      {
+        "type": "p",
+        "text": "Parents are responsible for ensuring their children practice good dental hygiene. Parents must introduce proper oral care early in a child's life - as early as infancy. The American Dental Hygiene Association states that a good oral hygiene routine for children includes:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Thoroughly cleaning your infant's gums after each feeding with a water-soaked infant cloth. This stimulates the gum tissue and removes food.",
+          "Gently brushing your baby's erupted teeth with a small, soft-bristled toothbrush using water or a pea-sized amount of training toothpaste.",
+          "Teaching your child at age 2 or 3 about proper brushing techniques and later teaching them brushing and gentle flossing until 7 or 8 years old.",
+          "Regular visits with their dentist to check for cavities in the primary teeth and for possible developmental problems.",
+          "Encouraging your child to discuss any fears they may have about oral health visits, but not mentioning words such as \"pain\" or \"hurt,\" since this may instill the possibility of pain in the child's thought process. • Determining if the water supply that serves your home is fluoridated; if not, discussing supplement options with your dentist or hygienist.",
+          "Asking your hygienist or dentist about sealant applications to protect your child's teeth-chewing surfaces and about bottle tooth decay, which occurs when teeth frequently are exposed to sugared liquids."
+        ]
+      }
+    ]
+  },
+  "/patients/dental-first-aid": {
+    "title": "Dental First Aid",
+    "description": "Dental First Aid",
+    "blocks": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What to Do During an After-Hours Emergency"
+      },
+      {
+        "type": "p",
+        "text": "Here at Dakota Dental Associates, we offer an after-hours emergency service for our patients of record. Patients will be questioned over the phone about the nature of their emergency and, depending on the case's severity and the time of day, the patient may be seen. Special emphasis will be given to emergencies involving trauma and infection. After-hours phone coverage: Monday through Thursday - 5:00 pm to 9:00 pm Friday - 12:00 noon to 9:00 pm Saturday and Sunday - 8:00 am to 9:00 pm. Dakota Dental patien of record who are current on their hygiene recall and treatment recommendations have access to the on-call emergency service. No narcotics will be prescribed. To access the after-hours service, please call the office at (701) 775-0641 and follow the voicemail instructions."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Toothache"
+      },
+      {
+        "type": "p",
+        "text": "Begin by cleaning around the sore tooth meticulously. Use warm salt water, rinse the mouth to displace any food trapped between teeth. Under no circumstance should you use aspirin on the aching tooth or on the gum. Please contact us for an appointment if the pain or swelling persists more than a day."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Cut or Bitten Tongue, Lip or Cheek"
+      },
+      {
+        "type": "p",
+        "text": "An ice pack can be applied to any bruised area. For bleeding, apply firm, but gentle, pressure with damp, sterile gauze or a clean cloth. If the bleeding does not stop with pressure or continues after 15 minutes, go to an emergency room."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Broken Tooth"
+      },
+      {
+        "type": "p",
+        "text": "Rinse the area with warm water. Recover any broken tooth fragments. Seek dental attention."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Knocked Out Permanent Tooth"
+      },
+      {
+        "type": "p",
+        "text": "Recover the tooth, making sure to hold it by the crown (top) and not the root. Rinse, but do not clean or handle the tooth more than necessary. Place tooth in a cup containing milk and call the office immediately."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Bleeding After a Baby Tooth Falls Out"
+      },
+      {
+        "type": "p",
+        "text": "Fold a piece of damp gauze and place it firmly over the bleeding area. Apply pressure by biting down on the gauze for 15 minutes. Repeat as needed."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Cold or Canker Sores"
+      },
+      {
+        "type": "p",
+        "text": "Over-the-counter medications usually will provide temporary relief. If sores persist, visit our office."
+      }
+    ]
+  },
+  "/patients/brushing-flossing": {
+    "title": "Brushing & Flossing",
+    "description": "Brushing & Flossing",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "What does good oral hygiene mean to you: Flashing a pearly-white smile? Having fresh smelling breath? Feeling that squeaky-clean sensation all around your teeth and tongue? All of these are important indicators about the state of your oral health — and they're often the first thing people notice when they meet you. But getting your teeth, gums and mouth really clean, and maintaining that healthy state throughout the day (and in the months between professional dental cleanings) can be challenging."
+      },
+      {
+        "type": "p",
+        "text": "Of course, there's much more to oral hygiene than just a bright smile. Take tooth decay, for example: Despite all our efforts, it's still the single most common chronic disease of childhood, affecting two-thirds of U.S. kids aged 12-19. It is 5 times more common than asthma, 7 times more common than hay fever — and it's almost totally preventable. Several other diseases commonly affect the mouth, including periodontitis (gum disease), which, if left untreated, can lead to tooth loss and possibly systemic (whole-body) inflammation."
+      },
+      {
+        "type": "p",
+        "text": "In many ways, the health of the mouth mirrors the health of the body. Diseases in other parts of the body often cause symptoms we can observe in the mouth; likewise, oral maladies (like tooth loss) not only reduce an individual's quality of life, but may also lead to problems in other areas. That's another reason why maintaining good oral hygiene is so important."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Keeping Up Your Oral Health"
+      },
+      {
+        "type": "p",
+        "text": "Regular dental visits play a critical role in maintaining your oral health — not only to find and remedy any problems with teeth or gums, but also to assess the general condition of your oral health, point out potential trouble spots, and offer suggestions for preventive care. In between visits, the best way to keep your teeth clean and free of disease, your gums pink and healthy, and your breath fresh, is a program of daily oral hygiene. Your regular routine should include the following:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Brush and Floss. You should brush at least twice a day and floss at least once daily. This will help remove plaque, a bacteria-laden biofilm, from the surfaces of your teeth. The bacteria in plaque can turn sugars from food into acids, which attack the tooth's enamel and cause tooth decay. Some bacteria can also cause gingivitis and other gum diseases.",
+          "Make sure you're getting the proper amount of fluoride. Fluoride strengthens tooth enamel — it's essential for children's developing teeth, and helps prevent decay in both kids and adults. Even if your municipal water is fluoridated, you should always use fluoride toothpaste. If more fluoride is needed, it can be applied directly to your teeth here at the dental office.",
+          "Limit between-meal snacks. Sugary snacks are the perfect fuel for decay-causing bacteria — and when eaten throughout the day, they keep the acid constantly on the attack. So give your mouth a break, and (if you allow them) limit sugary treats to mealtime.",
+          "Use an appropriate mouthrinse — especially if you're at increased risk. Therapeutic mouthrinses do more than temporarily mask bad smells or tastes in your mouth — they can improve your overall oral hygiene. While some over-the counter products offer primarily \"cosmetic\" benefits, therapeutic rinses contain anti-bacterial and anti-cariogenic (cavity-fighting) ingredients. Using a therapeutic mouthrinse has been proven to control plaque bacteria and prevent cavities better than brushing and flossing alone.",
+          "Quit tobacco. Whether smoked or smokeless, tobacco use greatly increases your risk of oral cancer, gum disease, and tooth decay (not to mention heart disease and lung cancer… but you already knew that). If you use tobacco, ask us how to quit now.",
+          "Examine your mouth regularly. Once you've established a regular routine, you'll quickly recognize any changes in your mouth — like chipped teeth, red or swollen gums, or unusual sores. If you find something of concern, let us know. Early treatment offers the best chance to remedy many problems."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A major goal of modern dentistry is to help you keep your teeth and gums healthy for a lifetime. By following a conscientious program of oral hygiene, you have the best chance at making this goal a reality."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Related Articles"
+      },
+      {
+        "type": "p",
+        "text": "Oral Hygiene Behavior — Dental Health for Life The best tools for maintaining your oral health and minimizing dental problems are a quality toothbrush, toothpaste, a roll of dental floss, approved mouthwash and good diet. This article details a winning game plan for oral health... Read Article"
+      },
+      {
+        "type": "p",
+        "text": "Tooth Decay — A Preventable Disease Tooth decay is the number one reason children and adults lose teeth during their lifetime. Yet many people don't realize that it is a preventable infection. This article explores the causes of tooth decay, its prevention, and the relationship to bacteria, sugars, and acids... Read Article"
+      },
+      {
+        "type": "p",
+        "text": "Dental Hygiene Visit There's a lot more going on at your regular dental hygiene visit than a feel-good polishing! Dental hygienists collaborate with dentists to provide optimum personalized oral health care to prevent oral disease and to promote your health... Read Article"
+      }
+    ]
+  },
+  "/patients/tooth-decay-prevention": {
+    "title": "Tooth Decay Prevention",
+    "description": "Tooth Decay Prevention",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Tooth decay is often called the second most prevalent human disease, after the common cold. Without effective treatment (as was the case through most of history) it can lead to pain, tooth loss, and sometimes worse illnesses. Even today, it's estimated to affect over a quarter of U.S children from ages two to five, and half of those aged 12-15. But it doesn't necessarily have to! Working together with our office, you can take steps to prevent tooth decay from harming your teeth — or those of your loved ones."
+      },
+      {
+        "type": "p",
+        "text": "There's one important fact you should understand up front: No single \"magic bullet\" can stop tooth decay in every case. Instead, fighting decay should be viewed as a process of preventive maintenance, like taking care of your car — except that (unlike a car) your natural teeth, with proper care, can last a whole lifetime. The basic aspects of this process are practicing good oral hygiene at home, and coming in to our office for regular cleanings and checkups."
+      },
+      {
+        "type": "p",
+        "text": "If you've been coming in for routine visits, you're probably already familiar with the special tools we use to remove buildups of plaque (a bacterial biofilm) and tartar (a hardened deposit, also called calculus) from your teeth. We may use hand-held instruments, ultrasonic scalers, or both to give your teeth a thorough cleaning. Afterwards, we check thoroughly for decay, and treat cavities when necessary."
+      },
+      {
+        "type": "p",
+        "text": "Yet there's still more we can do to prevent tooth decay. Could your diet be a contributing factor? Is your brushing technique adequate? Could you benefit from additional preventive treatments? Today, with our increased understanding of what causes tooth decay and how to treat it, we can truly focus on decay prevention in your particular case. In fact, it's now possible to assess each individual's risk factors for decay, and concentrate on doing what's most effective for you."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "How Does Decay Start?"
+      },
+      {
+        "type": "p",
+        "text": "We think of the mouth as a dynamically balanced ecosystem, in which living organisms, including helpful and harmful bacteria, are constantly interacting. When conditions are right — namely, in the presence of certain sugars — some pathogenic (harmful) bacteria produce acids that cause teeth to lose minerals and begin breaking down. Even a diet having excessive acidic foods can influence deminerialization of your teeth. But in more favorable conditions, the damage these pathogens do is undone by the body's own healing mechanisms — which includes your healthy saliva."
+      },
+      {
+        "type": "p",
+        "text": "Our goal in decay prevention is to tip the balance in favor of the beneficial processes. Keeping up a regular habit of brushing and flossing, getting adequate fluoride, and a diet with limited acidic foods is certainly helpful. Yet even with these measures, some individuals will be more prone to tooth decay than others, and may need extra help and guidance."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Additional Steps to Prevent Tooth Decay"
+      },
+      {
+        "type": "p",
+        "text": "If you're one of these individuals, we can demonstrate effective brushing techniques and recommend other steps you can take at home, like using special tooth pastes or rinses. When necessary, in-office treatments such as topical fluoride applications are available. If you aren't getting enough fluoride through drinking water or other sources, this treatment can help prevent tooth decay. Anti-bacterial treatments may also be beneficial in some cases, as is nutritional counseling."
+      },
+      {
+        "type": "p",
+        "text": "Finally, if your child's teeth are susceptible to tooth decay, we can apply a dental sealant. This is a practically invisible layer of plastic resin that is placed on the top (chewing) surfaces of the back teeth. It's a painless procedure that fills in the natural pits and folds of the tooth, making them much more resistant to bacterial damage."
+      },
+      {
+        "type": "p",
+        "text": "So, don't think that tooth decay is inevitable — instead, come in and ask us what we can do together to help prevent this disease from affecting you or your loved ones."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Related Articles"
+      },
+      {
+        "type": "p",
+        "text": "Tooth Decay — A Preventable Disease Tooth decay is the number one reason children and adults lose teeth during their lifetime. Yet many people don't realize that it is a preventable infection. This article explores the causes of tooth decay, its prevention, and the relationship to bacteria, sugars, and acids... Read Article"
+      },
+      {
+        "type": "p",
+        "text": "Tooth Decay - How To Assess Your Risk Don't wait for cavities to occur and then have them fixed — stop them before they start. Modern dentistry is moving towards an approach to managing tooth decay that is evidence-based — on years of accumulated, systematic, and valid scientific research. This article discusses what you need to know to assess your risk and change the conditions that lead to decay... Read Article"
+      },
+      {
+        "type": "p",
+        "text": "Dentistry and Oral Health for Children Dear Doctor magazine brings you this wide-ranging overview of milestones and transitions in your child's dental development. Learn how to protect your children from tooth decay, dental injuries, and unhealthy habits while getting them started on the road to a lifetime of oral health and general well-being... Read Article"
+      }
+    ]
+  },
+  "/treatment/general-treatment": {
+    "title": "General Treatment",
+    "description": "Dakota Dental Associates provides general dentistry in Grand Forks, North Dakota. Procedures include fillings, tooth extractions, composite bonding, root canal therapy, crowns and bridges.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Teeth Cleanings | Fillings | Crowns & Bridges | Root Canals | Tooth Extractions | Dental Implants | Dentures | Digital Imaging"
+      },
+      {
+        "type": "p",
+        "text": "Our practice offers a wide range of dental services. Our emphasis is on total preventive care for our patients. Total care begins with regular hygiene visits, regular checkups and continued home oral health routines. We provide quality services for restoring mouths that have been damaged by dental disease, injury and other common problems. Please see our before & after photos ."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Teeth Cleanings"
+      },
+      {
+        "type": "p",
+        "text": "You should schedule routine dental cleanings as recommended by your dentist. Generally, two visits are recommended each year. These visits consist of exams, cleanings and necessary X-rays. Some of our patients are seen more frequently because we customize each patient's recall according to her dental needs. During visits, one of our dental hygienists will remove plaque from your teeth, especially from places where your brush can't reach, such as underneath the gum line and between teeth. We then will polish your teeth and apply fluoride to help protect your teeth once you leave the office."
+      },
+      {
+        "type": "p",
+        "text": "Fluoride is an important advancement in dental and oral health. Studies consistently show that moderate but consistent exposure of teeth to fluoride helps strengthen and rebuild tooth structure, and helps prevent future decay."
+      },
+      {
+        "type": "p",
+        "text": "If you are due for your dental cleaning, please call our hygiene coordinator Nicole or a member of our staff to schedule an appointment."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Fillings"
+      },
+      {
+        "type": "p",
+        "text": "A \"filling\" is a repair of lost tooth structure due to decay or fracture. Fillings are made of composite, porcelain or metal. Depending on the particular situation, our staff will discuss and recommend the best option for you and your oral health."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Crowns & Bridges"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Crowns"
+      },
+      {
+        "type": "p",
+        "text": "A crown is a custom-made covering that fits over an original tooth that is either decayed, damaged or cracked. Crowns are made of a variety of different materials such as porcelain, gold, acrylic resin or a mix of these materials. We use a CEREC machine to custom-fabricate ceramic crowns for our patients."
+      },
+      {
+        "type": "p",
+        "text": "The treatment plan for a patient receiving a crown involves:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Numbing the tooth to remove the damaged tooth structure.",
+          "Re-sculpting the tooth to provide an ideal fit for the crown.",
+          "Using our CEREC machine, we picture, design and fabricate your crown while you wait. The CEREC system has revolutionized the dental field by meeting the needs of our patients in a more convenient manner. Gone are the days where the patient must return for multiple visits to complete a crown restoration. CEREC technology allows us to place a ceramic crown in just one visit.",
+          "Applying the custom-made CEREC crown and verifying fit on the tooth.",
+          "After ensuring that the crown has the proper look and fit, the dentist cements it into place."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Once the procedure is completed, proper dental hygiene, including daily brushing and flossing, is required to maintain healthy, bacteria-free teeth, gums and crowns. This helps in the prevention of gum disease."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bridges"
+      },
+      {
+        "type": "p",
+        "text": "A bridge is a dental device that fills a space that a tooth previously occupied. A bridge may be necessary to prevent:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Shifting of the teeth that can lead to bite problems (occlusion) and/or jaw problems and resultant periodontal disease.",
+          "Bridges safeguard the integrity of existing teeth and help maintain a healthy, vibrant smile."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Root Canals"
+      },
+      {
+        "type": "p",
+        "text": "A root canal is a procedure that extracts decayed pulp from the central part of the tooth, reshapes the canal and replaces it with strengthening filler."
+      },
+      {
+        "type": "p",
+        "text": "A cavity is the result of superficial decay of the enamel of the tooth. Left long enough, this decay can advance deeper into the tooth, causing extensive damage to tooth structure. When the damage goes beyond what can be treated with a filling, dentists can perform a root canal (or endodontics), preserving the tooth and retaining its original integrity; thereby, saving a tooth that in the past would have to have been pulled."
+      },
+      {
+        "type": "p",
+        "text": "A root canal procedure includes the following steps:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "The patient receives anesthetic.",
+          "A dental dam is used to isolate the tooth.",
+          "The tooth is opened to allow for removal of infected non-vital dental pulp.",
+          "The tooth is comprehensively cleaned, including any cracks and canals.",
+          "With special instruments, the doctor reshapes the canals.",
+          "The canals are filled with biocompatible filling material.",
+          "A temporary covering is used to cover the access opening.",
+          "Patients MUST schedule appointment for final restoration of the tooth."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Tooth Extractions"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "General Extractions"
+      },
+      {
+        "type": "p",
+        "text": "An extraction is the complete removal of a tooth. Extractions are sometimes necessary if a primary tooth is preventing the normal eruption of a permanent tooth, if the tooth has suffered extensive tooth decay or trauma that cannot be repaired, if the patient has gum disease, or if the tooth is impacted (usually the wisdom teeth). Depending on the complexity of the case, an extraction can be performed surgically or non-surgically."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Wisdom Teeth"
+      },
+      {
+        "type": "p",
+        "text": "Third molars are more commonly called \"wisdom teeth.\" Usually appearing in the late teens or early 20s, third molars often lack the proper space in the jaw to erupt fully or even at all. This common condition is called impaction. When any tooth lacks the space to come through or simply develops in the wrong place of your jaw and becomes impacted, problems can arise. Primarily, damage to adjacent teeth and crowding can occur."
+      },
+      {
+        "type": "p",
+        "text": "In certain cases, the wisdom tooth that cannot come through becomes inflamed under the gums and in the jawbone, causing a sac to develop around the root of the tooth that then fills with liquid. This can cause a cyst or an abscess if it becomes infected. If either of these situations goes untreated, serious damage to the underlying bone and surrounding teeth and tissues can result. To prevent the previous mentioned conditions, an extraction of one, several or all of the wisdom teeth may be advised."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Dental Implants"
+      },
+      {
+        "type": "p",
+        "text": "Dental implants are artificial tooth replacements. Implants arose from the patient's need to secure loose-fitting dentures. Since the advent of the implant, engineering and enhancements to the implant have enabled dentists to expand the implant's usefulness, including the replacement of missing or lost teeth. Today, implant techniques provide a wide range of tooth replacement solutions including:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Single tooth replacement",
+          "Multiple tooth replacement"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If the missing tooth space has no surrounding teeth, the dentist may decide an implant is the most appropriate treatment choice or option."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Post Implant Care"
+      },
+      {
+        "type": "p",
+        "text": "Although proper oral hygiene always is recommended for maintaining good dental health, it is especially important when a patient has received a dental implant. Bacteria can attack sensitive areas in the mouth when teeth and gums are not properly cleaned. Patients are advised to visit their dentists as recommended to ensure the health of their teeth and implants. Dental implants can last for decades when given proper care."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Dentures"
+      },
+      {
+        "type": "p",
+        "text": "Periodontal disease, injury and tooth decay all can cause loss of your natural teeth. However, we can bring back the smile on your face with dentures to restore your missing teeth. With improved technology and updated materials, dentists can now make them appear more natural and more comfortable for the patient."
+      },
+      {
+        "type": "p",
+        "text": "A denture is an artificial substitute for some or all of the natural teeth and adjacent tissues. There are two types of dentures: complete and partial."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Complete dentures cover the patient's entire jaw.",
+          "Partial dentures, with their metal framework, replace multiple missing teeth."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "To know which type is best for you, be sure to ask your doctor."
+      },
+      {
+        "type": "p",
+        "text": "It may take some time to adjust to your dentures. Speaking and eating may feel different at first, but these regular activities will resume normally once you are accustomed to your dentures."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Digital Imaging"
+      },
+      {
+        "type": "p",
+        "text": "We are proud to use the latest technology available to ensure our patients enjoy the best results. We use high-resolution digital imaging to capture detailed images of your mouth, thus enabling us to maintain accurate records and keep you thoroughly informed of your treatment progress."
+      },
+      {
+        "type": "p",
+        "text": "The digital radiography machine we use to take X-rays of your mouth releases much less radiation than traditional X-ray machines while providing crisp, clear images for more efficient diagnoses and treatment. We feel our modern practice and cutting-edge techniques ensure you are receiving the quality care you deserve."
+      }
+    ]
+  },
+  "/treatment/cerec": {
+    "title": "CEREC",
+    "description": "Early Dental Care Can Help Detect Potential Dental Issues In Your Child & Treat Them Before They Become Serious. Call To Schedule An Appointment Today!",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "We are proud to provide Sirona Dental’s CEREC 3D technology to our patients who need restorations. The CEREC system has revolutionized the dental field by meeting the needs of our patients in a more convenient manner. Gone are the days when the patient must return for multiple visits to complete a restoration. CEREC technology can design, fabricate and place a ceramic restoration in just one visit. Also with this new system, the need for temporaries or impressions has been eliminated."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "How does CEREC work?"
+      },
+      {
+        "type": "list",
+        "items": [
+          "First, the decay and/or old filling is removed.",
+          "Then, the teeth are prepared with a thin coat of reflective powder, and a specialized digital 3D camera creates a precise digital image of the teeth. This state-of-the-art system replaces the need for messy, cumbersome traditional impressions.",
+          "The computer-aided design (CAD) software then enables us to design and create a restoration specific to your dental needs. These highly durable restorations also can be color-matched for a more natural-looking smile.",
+          "We then will attach the restoration to the tooth, and check it for position, placement and bite function. When you leave, you already have your permanent restoration – there is no need for temporaries or follow-up appointments!"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What are the advantages of this system?"
+      },
+      {
+        "type": "p",
+        "text": "CEREC holds several advantages over conventional restoration systems, including:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Your restoration is started and completed on the same appointment – no wait times, no temporary crowns, no return visits, no hassle!",
+          "The entire process usually is completed in less than two hours.",
+          "Less need for local anesthetic and fewer shots.",
+          "All CEREC restorations are made from natural-looking, tooth-colored porcelain material that is metal-free, very biocompatible and plaque-resistant.",
+          "In many cases, more healthy tooth structure can be saved, because the restoration can be used in place of a full crown."
+        ]
+      }
+    ]
+  },
+  "/treatment/orthodontics": {
+    "title": "Orthodontics",
+    "description": "Orthodontics",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Orthodontic treatment is available to patients of all ages. In accordance with the American Orthodontic Society, we recommend that children have their first orthodontic evaluation by age 7. With early evaluation and diagnosis, children can achieve optimal orthodontic results. Early treatment provides a range of benefits and often means that a patient can avoid surgery or other serious complications. There is, of course, no age limit for orthodontic treatment as both children and adults benefit from orthodontics. As such, our office accommodates orthodontic patients of all ages."
+      },
+      {
+        "type": "p",
+        "text": "Here's what you can expect when considering orthodontics:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Your first visit likely will be what we call an orthodontics workup. At this 40-minute appointment, an assistant will take X-rays and other diagnostics that the doctor will use to determine your treatment plan. We also may take impressions to make models of your mouth.",
+          "A week or two later, we will have you back for a one-on-one consult with the doctor. Here, in a private setting, the doctor will go over his recommended treatment for either you or your child. This appointment usually lasts about a half-hour, and it's an opportunity for you to ask any questions you might have.",
+          "At the same appointment, our orthodontics coordinator will go over your orthodontics contract, case quote , insurance and financing options, including CareCredit.",
+          "You may choose to schedule your first few appointments for your ortho start at this time or you may give us a call back when you're ready. No fees are due and no contract needs to be signed until you arrive for your actual start date. Please note that conditions vary slightly for Invisalign cases."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "We use the following braces during orthodontic treatment:"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Gold Braces"
+      },
+      {
+        "type": "p",
+        "text": "Gold braces are stainless steel braces coated with 24-karat gold and are popular with patients of all ages."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Ceramic Braces"
+      },
+      {
+        "type": "p",
+        "text": "Ceramic braces are made of translucent (clear) material. They are most popular with adult patients, due to their cosmetic appeal. The only drawbacks to ceramic brackets are that they are more fragile, and the elastic ties can discolor between orthodontic visits."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Clarity™"
+      },
+      {
+        "type": "p",
+        "text": "Clarity™ braces feature a comfortable design with a translucent appearance. Made from a hard ceramic material, these braces won't stain or discolor. With the same performance as metal braces, many patients are now choosing the clear option - Clarity!"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Inspire!"
+      },
+      {
+        "type": "p",
+        "text": "If you're looking for a more aesthetically pleasing alternative to metal braces, Inspire! may be for you. Crafted from clear sapphire, these braces also are very strong and dependable. Check with your dentist to see if Inspire! is right for you."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Mini Diamond"
+      },
+      {
+        "type": "p",
+        "text": "Mini Diamond braces are popular with patients of all ages. Noticeably smaller than regular metal braces, this appliance is more comfortable. They're also efficient, yielding the same treatment time as traditional braces."
+      }
+    ]
+  },
+  "/treatment/dental-lab": {
+    "title": "Dental Lab",
+    "description": "Dental Lab",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Our in-office laboratory expedites the process of creating appliances and allows us to serve you in a more efficient manner."
+      },
+      {
+        "type": "p",
+        "text": "Our lab produces aesthetic appliances for a variety of dental procedures. These appliances include dentures, crowns, bridges and other prosthetics. After our dentists provide an impression or mold of the patient's teeth, one of our laboratory technicians creates a model of the patient's mouth using plaster molds. The technician then places the model in a device that replicates the bite and movement of the patient's jaw. This model serves as the basis for producing the required appliance."
+      },
+      {
+        "type": "p",
+        "text": "Our dentist and technicians then examine the model and make necessary adjustments and recommendations for each patient’s appliance. The technician uses the information from this consultation to shape, mold and cast the final appliance. The final cast duplicates the exact shape, size and color of the original tooth or teeth."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Dental Lab"
+        ]
+      },
+      {
+        "type": "list",
+        "items": [
+          "BRIGHT LIGHTS ILLUMINATE THE DENTAL LAB.",
+          "STUDY MODELS REST ON AN ARTICULATOR.",
+          "DR. BOTHUN ADJUSTS A MODEL.",
+          "DR. BOTHUN ADJUSTS A MODEL FOR A RETAINER.",
+          "HAWLEY RETAINERS COME IN MANY COLORS.",
+          "A SPORTS MOUTHGUARD TAKES SHAPE.",
+          "MOUTHGUARD IS MELTED, VACUUMED INTO FORM.",
+          "AN ASSISTANT POLISHES A CEREC CROWN.",
+          "A POLISHED, SHINY-NEW CROWN."
+        ]
+      }
+    ]
+  },
+  "/treatment/cosmetic-dentistry": {
+    "title": "Cosmetic Dentistry",
+    "description": "Patients in Grand Forks, ND receive high-quality cosmetic dental treatments. Dakota Dental Associates offers tooth whitening, veneers, crowns, bridges, dental implants and bonding.",
+    "blocks": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Teeth Whitening"
+      },
+      {
+        "type": "p",
+        "text": "Everyone wants a bright, white smile. Teeth whitening services are growing in popularity, and it's one of the most requested services offered by our practice. Everyone sees the growing consumer market focused on whiter teeth. The reality is that over-the-counter, \"too good to be true\" solutions typically don't work."
+      },
+      {
+        "type": "p",
+        "text": "Unfortunately, your teeth will darken over time. We offer a variety of options to whiten your teeth to combat the changes in the color of your teeth. This discoloration can be caused by factors such as the food and beverages you consume, like coffee, tea and soda. Other known factors for discoloration may include childhood medications or illnesses, tobacco use or improper oral hygiene. Restoring your natural white smile is a priority for our dental whitening team. Please see our before & after photos ."
+      },
+      {
+        "type": "p",
+        "text": "We are trained professionals using industry-approved methods. Our goal is to meet the needs of every patient, and every patient's needs are different. We use several methods to whiten our patients' teeth, including:"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Opalescence Boost In Office Whitening"
+      },
+      {
+        "type": "p",
+        "text": "We use Opalescence Boost In Office Whitening, similar to ZOOM, to whiten teeth. This method involves applying a gentle, carbamide peroxide gel either in our office or at home using special, custom-made trays. The gel comes in three different flavors: mint, melon or regular. In one visit, we will apply the solution, wait for the allotted time and reveal your brighter, whiter smile."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Nite White"
+      },
+      {
+        "type": "p",
+        "text": "The Nite White system can whiten you teeth at your convenience. Generally, patients will wear the custom-fitted tray with the Nite White gel while they sleep or for a few hours during the day. Patients will start seeing results after the first night of wear and then will see continued results in the next 10 to 14 days while continuing with the process. The active ingredient, carbamide peroxide, is proven to be safe for teeth and gums while successfully whitening your smile."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Veneers"
+      },
+      {
+        "type": "p",
+        "text": "Veneers are thin, semi-translucent \"shells\" typically attached to your front teeth. Veneers are customized from porcelain material that is bonded to your teeth. Veneers are a great alternative to otherwise painful dental procedures to improve the appearance of your smile."
+      },
+      {
+        "type": "p",
+        "text": "Common problems that veneers are used for:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Spaces between the teeth",
+          "Broken or chipped teeth",
+          "Unsightly, stained or discolored teeth",
+          "Permanently stained or discolored teeth",
+          "Crooked or misshapen teeth"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Veneers are a great aesthetic solution to your smile that may even help you avoid orthodontic treatment. Subtle changes to your smile can be achieved with veneers, and in most cases, veneer application is completed in only two office visits."
+      },
+      {
+        "type": "p",
+        "text": "Please contact our office if you have any further questions on veneers."
+      }
+    ]
+  },
+  "/treatment/appliances": {
+    "title": "Appliances",
+    "description": "Appliances",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Headgear | Nance Appliance | Distal Jet Appliance | Lip Bumpers | Herbst Appliance | Frankel Appliance | Orthognathic Appliance | Pendex Appliance | Mouthguards"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Headgear"
+      },
+      {
+        "type": "p",
+        "text": "Headgear often is used to correct an excessive overbite. This is done by placing pressure against the upper teeth and jaw, which would hold the teeth in position or help move them into better positions. The severity of the case determines the length of time headgear needs to be worn. The key to success with your headgear appliance is consistency. Headgear must be worn a certain number of hours per day and, if not, it must be made up the following day."
+      },
+      {
+        "type": "p",
+        "text": "Headgear should never be worn while playing sports and also should be removed while eating or brushing your teeth."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Nance Appliance"
+      },
+      {
+        "type": "p",
+        "text": "The Nance Appliance is used to prevent upper molars from rotating or moving forward after you've worn headgear, a Wilson's arch or any other appliance to move your molars back. Some patients wear the Nance Appliance while they are awaiting their bicuspids to grow into place."
+      },
+      {
+        "type": "p",
+        "text": "The appliance is made of two bands that are cemented onto the first molars and a wire spans the roof of the mouth from one molar to the other. An acrylic pad or \"button\" covers the wire that touches the roof of your mouth directly behind your front teeth."
+      },
+      {
+        "type": "p",
+        "text": "Patients always should brush around the bands daily. Do not eat sticky, chewy candy because it can loosen your appliance."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Distal Jet Appliance"
+      },
+      {
+        "type": "p",
+        "text": "The Distal Jet Appliance is a non-removable lingual appliance that is used to move upper teeth backward faster and more predictably than headgear. The Distal Jet distalizes molars and corrects teeth that have rotated. This appliance corrects class II problems."
+      },
+      {
+        "type": "p",
+        "text": "The Distal Jet Appliance uses a solid track wire and two sets of locking screws on each side. The appliance is self-limiting by design because it has a distal stop attached to the tracking wire. The Distal Jet can be converted to a Nance Appliance by tightening the distal and anterior locks against the track wire and adding a Nance holding arch."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Lip Bumpers"
+      },
+      {
+        "type": "p",
+        "text": "We like to avoid pulling teeth as often as possible, so we use lip bumpers on our patients who need to create more room for their crowded teeth. The lip bumper is a wire on the lower jaw that extends from one molar to another and keeps lips and cheeks from touching your teeth. When you move your mouth or speak, your lips and cheeks push on the bumper, and the bumper applies pressure to the teeth. This pressure pushes the molars back, creating more space for overcrowded teeth."
+      },
+      {
+        "type": "p",
+        "text": "If you have a lip bumper, please remember to leave it in while eating, but do not eat hard or sticky foods. Proper, thorough brushing should remove any food that gets stuck in your lip bumper."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Herbst Appliance"
+      },
+      {
+        "type": "p",
+        "text": "One of the most common problems dentists treat is the discrepancy that occurs when the upper teeth protrude beyond the lower. Ordinarily, when we see a patient with the upper teeth protruding, we tend to think that the upper jaw and teeth are too far forward; but, more often than not, this condition is due to a small lower jaw that is farther back than it should be. With these patients, we would like to encourage the lower jaw to catch up in growth, and braces such as the Herbst Appliance help this happen."
+      },
+      {
+        "type": "p",
+        "text": "Even though the Herbst Appliance prevents the lower jaw from moving backward, opening and closing movement still occur easily, and patients do not have any problems learning to chew their food with their lower jaw in this new position."
+      },
+      {
+        "type": "p",
+        "text": "As with all kinds of braces, patients with Herbst Appliances need to be careful about what they eat. For instance, cold foods such as ice slushes, Popsicles and ice will freeze the cement and make the brace loosen. Sticky foods such as caramels, bubble gum and candy suckers will pull the brace away from the teeth. Hard foods such as crisp vegetables and hard candies will bend and loosen the Herbst Appliance, too. So stay away from these foods during your orthodontic treatment."
+      },
+      {
+        "type": "p",
+        "text": "Your Herbst Appliance will be checked and adjusted at your appointments. If, sometimes between appointments, you develop sore areas on the inside of your cheeks, please do not try to adjust the appliance yourself. Call for an appointment so that the necessary adjustments can be made."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Wearing a Herbst Appliance"
+      },
+      {
+        "type": "p",
+        "text": "At first, your mouth will feel unusually full and speaking will be awkward. But if you practice reading aloud, your ordinary speech will return quickly. You also may notice more saliva than normal, but this will decrease as you become accustomed to the appliance."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Frankel Appliance"
+      },
+      {
+        "type": "p",
+        "text": "The Frankel Appliance is a functional orthopedic appliance that is used to help create additional space for permanent teeth to erupt by expanding the arches. It stimulates growth of the lower jaw which will better align the upper and lower teeth. The Frankel also can be used to help with protrusion or overjet by retracting the upper teeth and creating a better bite."
+      },
+      {
+        "type": "p",
+        "text": "Frankel Appliances typically are worn full time for 18 to 24 months and possibly longer if the permanent teeth have not fully erupted."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Orthognathic Appliance"
+      },
+      {
+        "type": "p",
+        "text": "An orthognathic appliance, or growth appliance, is used to correct discrepancies in the growth patterns of the jaws and/or cleft palate. There are a number of different growth appliances available to correct these problems. Certain appliances are designed to gently encourage the upper palate to expand, allowing for more room for the permanent teeth to grow in, while others are designed to correct overbites that occur because of growth problems. Orthognathic (growth) appliances are designed to create more room for incoming permanent teeth, promote a better bite and/or enhance the facial profile. They are sometimes used for less complex cases that do not require orthognathic surgery."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Pendex Appliance"
+      },
+      {
+        "type": "p",
+        "text": "The Pendex Appliance is a Pendulum Appliance that uses an expansion screw to widen the upper palate, correcting class II malocclusions and the patient's bite."
+      },
+      {
+        "type": "p",
+        "text": "The Pendex Appliance consists of a plastic \"button\" that touches the roof of the mouth. Within this button, there is a keyhole where you are to place the key and turn it according to your dentist's instructions. This turning will widen the appliance, thus widening your upper palate. Patients usually wear this appliance for three to six months."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Mouthguards"
+      },
+      {
+        "type": "p",
+        "text": "A properly fitted mouthguard is an important piece of athletic gear that can protect your mouth and cushion blows that might otherwise cause broken teeth and injuries to the lips, tongue, face or jaw. While custom mouthguards are considered by many to be the most protective option, other mouthguards can be effective if they fit well, are worn properly and stay in place. The primary mouthguard types include:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Performance Mouthwear",
+          "The custom-fitted mouthguard made by your dentist",
+          "The mouth-formed, \"boil-and-bite\" mouthguard"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Athletic mouthguards should fit properly, be durable and easy to clean, and not restrict your speech or breathing. Generally, a mouthguard covers only the upper teeth, but in some cases the dentist will make a mouthguard for the lower teeth as well."
+      },
+      {
+        "type": "p",
+        "text": "Like any other sports gear, a mouthguard will wear out, making it less effective. If your mouthguard has holes or tears, or if it becomes loose, it can irritate the teeth and oral tissues. Occasionally check the mouthguard's condition and replace it as necessary."
+      },
+      {
+        "type": "p",
+        "text": "Information gathered from ADA sources."
+      },
+      {
+        "type": "p",
+        "text": "Ask if we have your team colors!"
+      }
+    ]
+  },
+  "/treatment/invisalign": {
+    "title": "Invisalign",
+    "description": "Invisalign",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Invisalign® straightens your teeth without wires and brackets, using a series of clear, customized, removable appliances called aligners. They are virtually undetectable, which means hardly anyone will know that you're straightening your teeth."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Clearly Different"
+      },
+      {
+        "type": "p",
+        "text": "The Invisalign System combines advanced 3D computer graphics technology with the 100-year-old science of dentistry. Invisalign aligners are designed to move your teeth in small steps to the desired final position prescribed by your dentist. Each aligner is precisely calibrated and manufactured to fit your mouth at each stage of the treatment plan. Your first step is to visit our office to determine if Invisalign is right for you. After sending precise treatment instructions, Invisalign uses advanced computer technology to translate these instructions in a sequence of finely calibrated aligners — as few as 12 or as many as 48. Each aligner is worn for about two weeks and only taken out to eat, brush and floss. As you replace each aligner with the next, your teeth will begin to move gradually — week by week until the final alignment prescribed is attained. Then you'll be smiling like you never have before!"
+      },
+      {
+        "type": "p",
+        "text": "If you want to learn more about Invisalign and how it works, please visit the Invisalign Homepage."
+      },
+      {
+        "type": "p",
+        "text": "To ensure the best possible results, only a dentist who has been trained and certified by Align Technology can diagnose and treat using Invisalign. Invisalign is not intended for young children and is not appropriate for every teenager or adult. Only a dentist can determine if this treatment is an effective option for you. To see if Invisalign can help you achieve the smile you've always wanted, contact us to make an appointment."
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/IBIAev9OX6U",
+        "title": "Video"
+      }
+    ]
+  },
+  "/treatment/gum-disease-periodontics": {
+    "title": "Gum Disease & Periodontics",
+    "description": "Periodontal gum therapy treatment by Dakota Dental Associates in Grand Forks, North Dakota. Contact our office for a periodontal evaluation if you are having gum and gingival problems.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The term “periodontal” means “around the tooth.” Therefore, periodontal disease affects the gums and bone supporting the teeth. Gum, or periodontal, disease can cause inflammation, tooth loss and bone damage. The infection starts when the gums become inflamed due to bacteria in plaque, a sticky, colorless film that forms on your teeth. While this often is the main cause of periodontal disease, other factors also can be attributed to affecting the health of the gums and bone, including:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Smoking or tobacco use",
+          "Stress",
+          "Genetics",
+          "Pregnancy",
+          "Medications",
+          "Diabetes",
+          "Poor nutrition"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Periodontal disease comes in many forms. Gingivitis is perhaps the mildest form of gum disease. While the gums become red, swollen and bleed easily, there is very little or no discomfort associated at this stage of the disease. Through a good oral hygiene regimen and treatment from your dentist, the results of gingivitis can be reversed."
+      },
+      {
+        "type": "p",
+        "text": "Periodontitis is another form of periodontal disease and can be aggressive or chronic. Aggressive periodontitis displays rapid bone destruction and attachment loss in clinically healthy patients. Chronic periodontitis is one of the most common forms of periodontal disease and frequently is seen in adults. The stages progress slowly and can be recognized by gum recession and pocket formation."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Treatment and Prevention"
+      },
+      {
+        "type": "p",
+        "text": "Based on the diagnostic information we gather, we may recommend scaling and root planing to treat periodontal disease. In more advances cases, we may refer the patient to a periodontist, a dentist who specializes in the treatment of gum disease."
+      },
+      {
+        "type": "p",
+        "text": "Good oral hygiene and regular visits with your dentist and periodontist can prevent periodontal disease. Daily brushing and flossing can keep plaque to a minimum and, in conjunction with professional cleanings two to four times a year, can keep your teeth healthy for life."
+      }
+    ]
+  },
+  "/treatment/tmj-tmd": {
+    "title": "TMJ/TMD",
+    "description": "TMJ/TMD",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The “temporomandibular joint,” more commonly referred to as the “jaw joint,” assists in the basic opening and closing movements of the jaw. Unfortunately, this joint is a common area for recurring pain. Although conventional wisdom suggests that “popping” sounds in the jaw indicates a TMJ dysfunction, this is not always true. Many times, your jaw is functioning properly even if a “popping” sound is present when chewing or talking."
+      },
+      {
+        "type": "p",
+        "text": "We offer a TMJ exam that evaluates the joint tissue in the “hinge” of the jaw. Possible problems include swelling, deterioration of the joint tissue or damaged joint tissue, which cushions the jaw bones during the opening and closing movement of the mouth. Common pain relievers and cold compresses can provide temporary relief for most cases of TMJ."
+      },
+      {
+        "type": "p",
+        "text": "For more serious cases of TMJ, we will recommend alternate treatments. Often, we will suggest using a mouthguard to relieve teeth grinding. In some cases, we will instruct you to use orthodontic appliances or retainers to alleviate discomfort or redirect positioning of the TMJ joint. For the most severe cases of TMJ, we may recommend certain invasive procedures."
+      }
+    ]
+  },
+  "/treatment/snoring-therapy": {
+    "title": "Snoring Therapy",
+    "description": "Snoring Therapy",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Snoring affects millions of people of all ages, both male and female. Oral appliance therapy is the most common treatment for the most severe snoring problems. Treatment procedures range from changing your sleep patterns to using orthodontic-related appliances that help open the airways during sleep."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Common Causes of Snoring"
+      },
+      {
+        "type": "p",
+        "text": "Snoring is caused by the vibrations of your soft and/or hard tissue palates; these vibrations occur because of increasingly narrow air passages. When air passes through these passages, a \"flapping\" sound occurs because the tissue is soft in nature. Surgery (to alleviate the snoring) is not always successful, however, because the sound may not originate from the soft palate; the snoring sometimes originates from tissues in the upper airway."
+      },
+      {
+        "type": "p",
+        "text": "Common causes:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Smoking",
+          "Alcohol",
+          "Health problems",
+          "Obesity",
+          "Obstructed nasal passages - deviated septum",
+          "Poor muscle tone of the tongue",
+          "Daytime fatigue",
+          "Sleep apnea",
+          "Hypothyroidism",
+          "Allergies"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Sleep Apnea"
+      },
+      {
+        "type": "p",
+        "text": "Loud snorers may have a more serious case of blocked air passages, known as obstructive sleep apnea syndrome (OSAS). In these cases, the blockage of air is so great that no air can get through, causing repeated awakenings throughout the night. Obstructive sleep apnea can contribute or lead to many other conditions, such as high blood pressure, stroke, heart attack and depression, so it is important to be diagnosed by a medical professional if you experience any sleep-related symptoms."
+      }
+    ]
+  }
+}
